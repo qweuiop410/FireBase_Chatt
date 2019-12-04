@@ -17,5 +17,5 @@ implementation 'com.google.firebase:firebase-database:19.1.0'
 ```
 
 + UI - RecyclerView사용
-+참고
-  +[developers](https://developer.android.com/guide/topics/ui/layout/recyclerview)
++ 참고
+  + [developers](https://developer.android.com/guide/topics/ui/layout/recyclerview)
